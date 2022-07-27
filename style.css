@@ -11,8 +11,10 @@ header{
     font-family: 'Bebas Neue', cursive;
     color: #FA804C;
     font-size: 90px;
-    letter-spacing: -2px;
 }
 span{
     color: #363958;
+}
+.image{
+    background-color: rgb(236, 234, 234);
 }
