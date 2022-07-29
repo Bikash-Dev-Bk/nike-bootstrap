@@ -27,3 +27,24 @@ span{
 .color{
     color: #363958;
 }
+
+@media only screen and (max-width: 576px) {
+    .mobile-banner {
+      display: flex;
+      flex-direction: column-reverse;
+    }
+    .mobile-banner-text{
+        padding-top: 50px;
+    }
+  }
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .tablet-banner {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+    }
+    .tablet-banner-img{
+        padding-top: 50px;
+    }
+    
+  }
