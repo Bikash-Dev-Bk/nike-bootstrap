@@ -27,9 +27,7 @@ span{
 .color{
     color: #363958;
 }
-.footer-bg-color{
-    background-color: rgb(16, 10, 22);
-}
+
 
 @media only screen and (max-width: 576px) {
     .mobile-banner {
