@@ -37,14 +37,3 @@ span{
         padding-top: 50px;
     }
   }
-@media only screen and (min-width: 768px) and (max-width: 992px) {
-    .tablet-banner {
-      display: flex;
-      flex-direction: column;
-      text-align: center;
-    }
-    .tablet-banner-img{
-        padding-top: 50px;
-    }
-    
-  }
