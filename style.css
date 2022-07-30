@@ -37,7 +37,7 @@ span{
     .mobile-banner-text{
         padding-top: 50px;
     }
-    .jacket-header{
+    .shoes-header{
         text-align: center;
     }
     .mobile-last2{
@@ -52,7 +52,7 @@ span{
         display: flex;
         flex-direction: column-reverse;
       }
-    .jacket-header{
+    .shoes-header{
         text-align: center;
     }
   }
